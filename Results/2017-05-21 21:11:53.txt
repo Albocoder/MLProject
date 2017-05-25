@@ -1,0 +1,24 @@
+step 0, training acc: 0.2 
+test acc: 0 
+step 1, training acc: 0.2 
+step 2, training acc: 0.4 
+step 3, training acc: 0.2 
+step 4, training acc: 0 
+step 5, training acc: 0.2 
+test acc: 0 
+step 6, training acc: 0 
+step 7, training acc: 0.4 
+step 8, training acc: 0.2 
+step 9, training acc: 0 
+step 10, training acc: 0.2 
+test acc: 0.35 
+step 11, training acc: 0 
+step 12, training acc: 0 
+step 13, training acc: 0.2 
+step 14, training acc: 0.4 
+step 15, training acc: 0.2 
+test acc: 0.15 
+step 16, training acc: 0.4 
+step 17, training acc: 0.2 
+step 18, training acc: 0.4 
+step 19, training acc: 0 

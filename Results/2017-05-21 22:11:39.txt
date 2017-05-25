@@ -1,0 +1,2 @@
+step 0, training acc: 1 
+test acc: 0 
